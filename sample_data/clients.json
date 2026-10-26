@@ -1,0 +1,34 @@
+[
+  {
+    "client_name": "Nora @ Bramble Design Co",
+    "client_email": "nora@example.com",
+    "amount": 1200.00,
+    "currency": "USD",
+    "due_date": "2026-10-10",
+    "description": "October brand refresh — logo + style guide",
+    "status": "SENT",
+    "paypal_invoice_id": "SANDBOX-INV-0001",
+    "reminders_sent": 0
+  },
+  {
+    "client_name": "Theo @ Fieldglass Studio",
+    "client_email": "theo@example.com",
+    "amount": 450.00,
+    "currency": "USD",
+    "due_date": "2026-10-30",
+    "description": "Landing page copywriting",
+    "status": "DRAFT",
+    "reminders_sent": 0
+  },
+  {
+    "client_name": "Priya @ Lumenwave",
+    "client_email": "priya@example.com",
+    "amount": 2600.00,
+    "currency": "USD",
+    "due_date": "2026-09-28",
+    "description": "Q3 social content batch",
+    "status": "SENT",
+    "paypal_invoice_id": "SANDBOX-INV-0003",
+    "reminders_sent": 2
+  }
+]
